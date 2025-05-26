@@ -1,0 +1,13 @@
+@font-face {
+    font-family:'Chonky Bunny';
+    src: url(../multimedia/fuentes/Chonky\ Bunny.ttf);
+}
+
+    
+.titulo1{
+    font-family:'Chonky Bunny' ;
+    font-size: 100px;
+
+
+}
+

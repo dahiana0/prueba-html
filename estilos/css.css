@@ -1,0 +1,39 @@
+/*selector universal*/
+*{
+    margin: 0;
+    padding: 0;
+  /*   color: rgb(0, 0, 0); */
+    background-color: rgb(206, 209, 219);
+}
+/* selector de etiqueta */
+h1{
+    color: rgb(236, 236, 236);
+    font-size: 80px;
+    font-family: monospace
+    background-color: blueviolet;
+    text-align: center;
+
+}
+p{
+    color: rgb(216, 216, 216);
+    font-size: 20px;
+    font-family: monospace;
+    background-color: rgb(10, 85, 119);
+
+
+}
+li{
+    color: rgb(240, 233, 233);
+    font-size: 20px;
+    font-family: monospace;
+    background-color: rgb(34, 108, 173);
+
+
+}
+/*selector de id*/
+#parrafo1{
+    font-size: 40px;
+}
+.textos{
+    text-align: right;
+}
